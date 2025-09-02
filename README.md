@@ -46,7 +46,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ### Execute o programa
 - Visual Studio
-  - 
+  - Rode o programa com o comando "Ctrl + F5" ou somente "F5"
 - VS Code
   - Abra o terminal com o comando "Ctrl + j"
   - Rode o programa com o comando "dotnet run"
